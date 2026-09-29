@@ -1,2 +1,3 @@
 # automative-listening
-dont bother download this. you wont even get the the excel data where it comes from
+1.0 (the original) have gone missing la ngl
+
